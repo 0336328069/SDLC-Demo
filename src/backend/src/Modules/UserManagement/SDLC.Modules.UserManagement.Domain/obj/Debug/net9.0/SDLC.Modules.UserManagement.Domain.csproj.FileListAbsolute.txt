@@ -1,0 +1,15 @@
+D:\SDLC Project Demo\src\backend\src\Modules\UserManagement\SDLC.Modules.UserManagement.Domain\bin\Debug\net9.0\SDLC.Modules.UserManagement.Domain.deps.json
+D:\SDLC Project Demo\src\backend\src\Modules\UserManagement\SDLC.Modules.UserManagement.Domain\bin\Debug\net9.0\SDLC.Modules.UserManagement.Domain.dll
+D:\SDLC Project Demo\src\backend\src\Modules\UserManagement\SDLC.Modules.UserManagement.Domain\bin\Debug\net9.0\SDLC.Modules.UserManagement.Domain.pdb
+D:\SDLC Project Demo\src\backend\src\Modules\UserManagement\SDLC.Modules.UserManagement.Domain\bin\Debug\net9.0\SDLC.Shared.Kernel.dll
+D:\SDLC Project Demo\src\backend\src\Modules\UserManagement\SDLC.Modules.UserManagement.Domain\bin\Debug\net9.0\SDLC.Shared.Kernel.pdb
+D:\SDLC Project Demo\src\backend\src\Modules\UserManagement\SDLC.Modules.UserManagement.Domain\obj\Debug\net9.0\SDLC.Modules.UserManagement.Domain.csproj.AssemblyReference.cache
+D:\SDLC Project Demo\src\backend\src\Modules\UserManagement\SDLC.Modules.UserManagement.Domain\obj\Debug\net9.0\SDLC.Modules.UserManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\SDLC Project Demo\src\backend\src\Modules\UserManagement\SDLC.Modules.UserManagement.Domain\obj\Debug\net9.0\SDLC.Modules.UserManagement.Domain.AssemblyInfoInputs.cache
+D:\SDLC Project Demo\src\backend\src\Modules\UserManagement\SDLC.Modules.UserManagement.Domain\obj\Debug\net9.0\SDLC.Modules.UserManagement.Domain.AssemblyInfo.cs
+D:\SDLC Project Demo\src\backend\src\Modules\UserManagement\SDLC.Modules.UserManagement.Domain\obj\Debug\net9.0\SDLC.Modules.UserManagement.Domain.csproj.CoreCompileInputs.cache
+D:\SDLC Project Demo\src\backend\src\Modules\UserManagement\SDLC.Modules.UserManagement.Domain\obj\Debug\net9.0\SDLC.Mod.DA18F9EE.Up2Date
+D:\SDLC Project Demo\src\backend\src\Modules\UserManagement\SDLC.Modules.UserManagement.Domain\obj\Debug\net9.0\SDLC.Modules.UserManagement.Domain.dll
+D:\SDLC Project Demo\src\backend\src\Modules\UserManagement\SDLC.Modules.UserManagement.Domain\obj\Debug\net9.0\refint\SDLC.Modules.UserManagement.Domain.dll
+D:\SDLC Project Demo\src\backend\src\Modules\UserManagement\SDLC.Modules.UserManagement.Domain\obj\Debug\net9.0\SDLC.Modules.UserManagement.Domain.pdb
+D:\SDLC Project Demo\src\backend\src\Modules\UserManagement\SDLC.Modules.UserManagement.Domain\obj\Debug\net9.0\ref\SDLC.Modules.UserManagement.Domain.dll

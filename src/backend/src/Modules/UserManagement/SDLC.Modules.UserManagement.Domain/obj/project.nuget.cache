@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dZ6rc7I2P6I=",
+  "success": true,
+  "projectFilePath": "D:\\SDLC Project Demo\\src\\backend\\src\\Modules\\UserManagement\\SDLC.Modules.UserManagement.Domain\\SDLC.Modules.UserManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

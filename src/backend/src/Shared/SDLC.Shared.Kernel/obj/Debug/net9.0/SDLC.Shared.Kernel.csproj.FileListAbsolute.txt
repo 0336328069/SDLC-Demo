@@ -1,0 +1,12 @@
+D:\SDLC Project Demo\src\backend\src\Shared\SDLC.Shared.Kernel\bin\Debug\net9.0\SDLC.Shared.Kernel.deps.json
+D:\SDLC Project Demo\src\backend\src\Shared\SDLC.Shared.Kernel\bin\Debug\net9.0\SDLC.Shared.Kernel.dll
+D:\SDLC Project Demo\src\backend\src\Shared\SDLC.Shared.Kernel\bin\Debug\net9.0\SDLC.Shared.Kernel.pdb
+D:\SDLC Project Demo\src\backend\src\Shared\SDLC.Shared.Kernel\obj\Debug\net9.0\SDLC.Shared.Kernel.csproj.AssemblyReference.cache
+D:\SDLC Project Demo\src\backend\src\Shared\SDLC.Shared.Kernel\obj\Debug\net9.0\SDLC.Shared.Kernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\SDLC Project Demo\src\backend\src\Shared\SDLC.Shared.Kernel\obj\Debug\net9.0\SDLC.Shared.Kernel.AssemblyInfoInputs.cache
+D:\SDLC Project Demo\src\backend\src\Shared\SDLC.Shared.Kernel\obj\Debug\net9.0\SDLC.Shared.Kernel.AssemblyInfo.cs
+D:\SDLC Project Demo\src\backend\src\Shared\SDLC.Shared.Kernel\obj\Debug\net9.0\SDLC.Shared.Kernel.csproj.CoreCompileInputs.cache
+D:\SDLC Project Demo\src\backend\src\Shared\SDLC.Shared.Kernel\obj\Debug\net9.0\SDLC.Shared.Kernel.dll
+D:\SDLC Project Demo\src\backend\src\Shared\SDLC.Shared.Kernel\obj\Debug\net9.0\refint\SDLC.Shared.Kernel.dll
+D:\SDLC Project Demo\src\backend\src\Shared\SDLC.Shared.Kernel\obj\Debug\net9.0\SDLC.Shared.Kernel.pdb
+D:\SDLC Project Demo\src\backend\src\Shared\SDLC.Shared.Kernel\obj\Debug\net9.0\ref\SDLC.Shared.Kernel.dll
