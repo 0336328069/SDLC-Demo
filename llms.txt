@@ -1,0 +1,68 @@
+# SDLC Management Platform
+
+> A comprehensive Software Development Lifecycle management platform built with modern full-stack architecture. Features Next.js 15 frontend with TailwindCSS, .NET 9 backend using Clean Architecture + DDD + Modular Monolith patterns, and Vietnamese-first UI design. Designed for enterprise-ready scalability with real-time collaboration capabilities.
+
+## Documentation
+
+- [Project Setup Guide](https://github.com/0336328069/SDLC-Demo/blob/master/SETUP.md) - Complete setup instructions for both frontend and backend
+- [Modular Monolith Architecture](https://github.com/0336328069/SDLC-Demo/blob/master/MODULAR-MONOLITH-SETUP.md) - Backend architecture documentation with Clean Architecture + DDD implementation
+- [Component Architecture Guide](https://github.com/0336328069/SDLC-Demo/tree/master/src/frontend/components) - Atomic Design pattern implementation (Atoms/Molecules/Organisms)
+- [User Management API](https://github.com/0336328069/SDLC-Demo/tree/master/src/backend/src/Modules/UserManagement) - Complete CQRS implementation with domain events
+- [Database Migrations](https://github.com/0336328069/SDLC-Demo/tree/master/src/backend/src/Modules/UserManagement/SDLC.Modules.UserManagement.Infrastructure) - Entity Framework Core setup and configurations
+
+## Examples
+
+- [Hero Section Component](https://github.com/0336328069/SDLC-Demo/blob/master/src/frontend/components/organisms/HeroSection.tsx) - Responsive landing page with TailwindCSS animations
+- [Button Atom](https://github.com/0336328069/SDLC-Demo/blob/master/src/frontend/components/atoms/Button.tsx) - Reusable UI component following design system
+- [User Entity](https://github.com/0336328069/SDLC-Demo/blob/master/src/backend/src/Modules/UserManagement/SDLC.Modules.UserManagement.Domain/Entities/User.cs) - Rich domain model with business logic encapsulation
+- [Create User Command](https://github.com/0336328069/SDLC-Demo/blob/master/src/backend/src/Modules/UserManagement/SDLC.Modules.UserManagement.Application/Commands/CreateUserCommand.cs) - CQRS command pattern implementation
+
+## Tech Stack
+
+- **Frontend**: Next.js 15, TypeScript, TailwindCSS, Atomic Design, Lucide Icons
+- **Backend**: .NET 9, Entity Framework Core, Clean Architecture, DDD, Modular Monolith
+- **Architecture**: CQRS, Repository Pattern, Domain Events, Dependency Injection
+- **Database**: SQL Server with Code-First migrations
+- **UI/UX**: Vietnamese-first design, responsive mobile-first approach
+
+## API Endpoints
+
+- `GET /api/users` - Retrieve all users with pagination
+- `GET /api/users/{id}` - Get user by ID with detailed information  
+- `POST /api/users` - Create new user with validation and domain events
+- `PUT /api/users/{id}` - Update user profile with business rules
+- `DELETE /api/users/{id}` - Soft delete user with audit trail
+
+## Development Workflow
+
+- **Frontend**: Component-driven development with Storybook-ready structure
+- **Backend**: Domain-driven design with module boundaries and event sourcing
+- **Testing**: Unit tests for domain logic, integration tests for API endpoints
+- **Database**: Entity Framework migrations with seed data and indexing strategies
+
+## AI Integration
+
+- **Context7 MCP**: Integrated for up-to-date documentation context in AI tools
+- **LLM-Friendly**: Structured codebase optimized for AI code assistant integration
+- **Documentation**: Comprehensive inline comments and architectural decision records
+
+## Quick Start Commands
+
+```bash
+# Frontend development
+cd src/frontend && npm install && npm run dev
+
+# Backend development  
+cd src/backend && dotnet restore && dotnet run --project src/Bootstrapper/SDLC.Bootstrapper
+
+# Database setup
+dotnet ef database update --project src/Modules/UserManagement/SDLC.Modules.UserManagement.Infrastructure
+```
+
+## Optional Resources
+
+- [Cleanup Summary](https://github.com/0336328069/SDLC-Demo/blob/master/CLEANUP-SUMMARY.md) - Project cleanup and optimization notes
+- [Frontend Setup Script](https://github.com/0336328069/SDLC-Demo/blob/master/setup-frontend.bat) - Automated frontend environment setup
+- [Backend Setup Script](https://github.com/0336328069/SDLC-Demo/blob/master/setup-modular-backend.bat) - Automated backend environment setup
+- [TailwindCSS Configuration](https://github.com/0336328069/SDLC-Demo/blob/master/src/frontend/tailwind.config.ts) - Custom design system configuration
+- [Project Structure](https://github.com/0336328069/SDLC-Demo) - Complete source code and documentation 
